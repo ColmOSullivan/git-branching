@@ -1,0 +1,21 @@
+body {
+  color: tomato;
+}
+
+header {
+  color: limegreen;
+}
+
+h1 {
+  font-size: 5rem;
+}
+p {
+  color: rebeccapurple;
+}
+li {
+  list-style: none;
+}
+
+div {
+  text-transform: uppercase;
+}
